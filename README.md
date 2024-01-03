@@ -32,4 +32,6 @@ $ git clone https://github.com/KyxDumper/kyxdump.git
 
 $ cd kyxdump
 
-$ su -c KyxDrcoder
+$ su -c chmod 777 ./run.sh
+
+$ su -c ./run.sh
