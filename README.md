@@ -32,4 +32,4 @@ $ git clone https://github.com/KyxDumper/kyxdump.git
 
 $ cd kyxdump
 
-$ su -c kyxdump
+$ su -c KyxDrcoder
