@@ -25,7 +25,7 @@ KyxDump is a premium service designed for users who demand the best. Unleash the
 1. Clone the repository: `git clone https://github.com/KyxDumper/kyxdump.git`
 2. Follow the installation instructions in the [documentation](/README.md).
 
-## Usage
+## Usage - Termux
 
 ```bash
 $ git clone https://github.com/KyxDumper/kyxdump.git
